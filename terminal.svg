@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260">
+<defs><linearGradient id="x"><stop stop-color="#111827"/><stop offset="1" stop-color="#0f172a"/></linearGradient></defs>
+<rect width="1200" height="260" rx="22" fill="url(#x)" stroke="#334155"/>
+<circle cx="32" cy="28" r="7" fill="#ef4444"/><circle cx="55" cy="28" r="7" fill="#eab308"/><circle cx="78" cy="28" r="7" fill="#22c55e"/>
+<text x="32" y="82" fill="#22c55e" font-family="monospace" font-size="19">$ whoami</text>
+<text x="32" y="112" fill="#e2e8f0" font-family="monospace" font-size="18">mmojjtaba7-ctrl</text>
+<text x="32" y="151" fill="#22c55e" font-family="monospace" font-size="19">$ status</text>
+<text x="32" y="181" fill="#e2e8f0" font-family="monospace" font-size="18">ONLINE • BUILDING • LEARNING</text>
+<text x="32" y="220" fill="#22c55e" font-family="monospace" font-size="19">$ mission</text>
+<text x="150" y="220" fill="#e2e8f0" font-family="monospace" font-size="18">create better projects</text>
+</svg>
